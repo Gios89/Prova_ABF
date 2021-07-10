@@ -4,7 +4,7 @@ using Prova_ABF
 makedocs(
     sitename = "Prova_ABF",
     format = Documenter.HTML(),
-    modules = [Prova_ABF]
+    modules = [Prova_ABF],
 )
 
 # Documenter can also automatically deploy documentation to gh-pages.
