@@ -8,7 +8,7 @@ makedocs(
 )
 
 deploydocs(
-    repo = "https://github.com/Gios89/Prova_ABF"
+    repo = "github.com/Gios89/Prova_ABF.git"
 )
 
 # Documenter can also automatically deploy documentation to gh-pages.
